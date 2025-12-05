@@ -1,0 +1,5 @@
+# Sample monster entries (type;name;level;baseDamage;defense;dodge)
+# Semicolon separated key=value entries
+type=Dragon;name=Young Red Dragon;level=1;baseDamage=30;defense=5;dodge=0.05
+type=Exoskeleton;name=Rusty Shell;level=1;baseDamage=20;defense=8;dodge=0.02
+type=Spirit;name=Faint Spirit;level=1;baseDamage=15;defense=3;dodge=0.12

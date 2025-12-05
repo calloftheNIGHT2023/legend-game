@@ -1,0 +1,405 @@
+<CLEAR>
+--- Battle Start ---
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=100/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: WarriorA attacked Whispering Shade for [31m22[0m damage.
+    Whispering Shade [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m    ] 82% HP=82/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: SorcererB attacked Whispering Shade for [31m12[0m damage.
+    Whispering Shade [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m     ] 74% HP=74/100
+Monsters' turn:
+  [1] Whispering Shade plans: Ethereal Strike
+  [2] Bronze Carapace plans: Crushing Strike
+Whispering Shade mimics WarriorA's attack for 22 damage!
+    WarriorA HP=78/100
+Bronze Carapace crushed SorcererB for 8 damage.
+    SorcererB HP=92/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m   ] 86%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=86/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m     ] 74% HP=74/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: WarriorA attacked Whispering Shade for [31m22[0m damage.
+    Whispering Shade [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m         ] 56% HP=56/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: SorcererB attacked Whispering Shade for [31m12[0m damage.
+    Whispering Shade [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m          ] 48% HP=48/100
+Monsters' turn:
+  [1] Whispering Shade plans: Mimic (copies target attack)
+  [2] Bronze Carapace plans: Crushing Strike
+Whispering Shade struck WarriorA for 10 damage.
+    WarriorA HP=76/100
+Bronze Carapace crushed SorcererB for 8 damage.
+    SorcererB HP=92/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m   ] 84%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=84/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m          ] 48% HP=48/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: [33mWhispering Shade dodged WarriorA's attack![0m
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: SorcererB attacked Whispering Shade for [31m12[0m damage.
+    Whispering Shade [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m            ] 40% HP=40/100
+Monsters' turn:
+  [1] Whispering Shade plans: Mimic (copies target attack)
+  [2] Bronze Carapace plans: Crushing Strike
+Whispering Shade struck WarriorA for 10 damage.
+    WarriorA HP=74/100
+Bronze Carapace uses Shield Bash on SorcererB! 
+    -> SorcererB takes 14 damage. HP=86/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m    ] 82%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=82/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m ] 95%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=95/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m            ] 40% HP=40/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: WarriorA attacked Whispering Shade for [31m22[0m damage.
+    Whispering Shade [[31m█[0m[31m█[0m[31m█[0m[31m█[0m                ] 22% HP=22/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: SorcererB attacked Whispering Shade for [31m12[0m damage.
+    Whispering Shade [[31m█[0m[31m█[0m[31m█[0m                 ] 14% HP=14/100
+Monsters' turn:
+  [1] Whispering Shade plans: Mimic (copies target attack)
+  [2] Bronze Carapace plans: Shield Bash (heavy)
+WarriorA phased away from Whispering Shade's strike!
+Bronze Carapace crushed WarriorA for 8 damage.
+    WarriorA HP=74/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m    ] 82%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=82/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [[31m█[0m[31m█[0m[31m█[0m                 ] 14% HP=14/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100% HP=100/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): Choose target monster by index: WarriorA attacked Whispering Shade for [31m22[0m damage.
+    Whispering Shade [                    ] 0% HP=0/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 98% HP=98/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Shield Bash (heavy)
+Bronze Carapace crushed WarriorA for 8 damage.
+    WarriorA HP=74/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m    ] 82%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=82/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 98% HP=98/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m   ] 86% HP=86/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m   ] 84% HP=84/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Shield Bash (heavy)
+SorcererB dodged Bronze Carapace's strike!
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m  ] 91%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=91/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m   ] 84% HP=84/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m      ] 72% HP=72/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m      ] 70% HP=70/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Crushing Strike
+Bronze Carapace uses Shield Bash on SorcererB! 
+    -> SorcererB takes 14 damage. HP=86/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=100/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m ] 95%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=95/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m      ] 70% HP=70/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m        ] 58% HP=58/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m         ] 56% HP=56/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Crushing Strike
+Bronze Carapace crushed WarriorA for 8 damage.
+    WarriorA HP=92/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=100/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m         ] 56% HP=56/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m           ] 44% HP=44/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m            ] 42% HP=42/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Crushing Strike
+Bronze Carapace crushed SorcererB for 8 damage.
+    SorcererB HP=92/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=100/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m[33m█[0m            ] 42% HP=42/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m              ] 30% HP=30/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m              ] 28% HP=28/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Shield Bash (heavy)
+Bronze Carapace crushed WarriorA for 8 damage.
+    WarriorA HP=92/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=100/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m[31m█[0m              ] 28% HP=28/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [[31m█[0m[31m█[0m[31m█[0m                 ] 16% HP=16/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [[31m█[0m[31m█[0m[31m█[0m                 ] 14% HP=14/100
+Monsters' turn:
+  [2] Bronze Carapace plans: Crushing Strike
+Bronze Carapace uses Shield Bash on WarriorA! 
+    -> WarriorA takes 14 damage. HP=86/100
+Heroes:
+  WarriorA     [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m ] 95%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Power Strike (MP:20)
+     HP=95/100  MP=80  HP Pots=3 MP Pots=1
+  SorcererB    [[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m[32m█[0m] 100%  MP:[[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m[36m█[0m] 100%  Skill:Arcane Blast (MP:30)
+     HP=100/100  MP=120  HP Pots=3 MP Pots=1
+Monsters:
+  [1] Whispering Shade [Beginner] [                    ] 0% HP=0/100
+  [2] Bronze Carapace [Beginner] [[31m█[0m[31m█[0m[31m█[0m                 ] 14% HP=14/100
+Heroes' turn:
+
+Action for WarriorA:
+  1) Normal Attack
+  2) Use Skill (Power Strike, MP cost: 20)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): WarriorA attacked Bronze Carapace for [31m22[0m damage.
+    Bronze Carapace [                    ] 2% HP=2/100
+
+Action for SorcererB:
+  1) Normal Attack
+  2) Use Skill (Arcane Blast, MP cost: 30)
+  3) Use Health Potion (+50 HP)
+  4) Use Mana Potion (+50 MP)
+  5) Skip
+  6) Use Item
+Choose (1-5): SorcererB attacked Bronze Carapace for [31m12[0m damage.
+    Bronze Carapace [                    ] 0% HP=0/100
+--- Battle End ---
+Heroes win: true
